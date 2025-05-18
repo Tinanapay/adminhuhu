@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021529125725",
+    "project_id": "sato-meow",
+    "storage_bucket": "sato-meow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021529125725:android:42b6fa519e2c6c41982eb4",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWeOnut0wSJJXeoWmsCvtSrH4DFykTNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021529125725:android:2fbc02b42b6871c0982eb4",
+        "android_client_info": {
+          "package_name": "com.example.sato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWeOnut0wSJJXeoWmsCvtSrH4DFykTNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
